@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+.margin-left-right-15 .margin-left-right-15 {
+  margin: 0 15px;
+}
 .white-color {
   color: #fff;
 }
@@ -12,7 +15,6 @@
 
 .background-green {
   background-color: green;
-  margin: 0 15px;
 }
 
 .background-blue {
